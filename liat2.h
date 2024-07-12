@@ -1,0 +1,1 @@
+void affichage(char *teste, FILE *fic, int nbr, char *nom_fichier);
